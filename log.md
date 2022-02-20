@@ -8,6 +8,7 @@
 **Thoughts:** Not forget about references!!
 
 **Link to work:** [Sudoku exercise](https://github.com/triciappa/Python-Programming-MOOC/blob/main/Part%205/Exercise%202.3.py)
+
                   [New function fot the Sudoku module](https://github.com/triciappa/Python-Programming-MOOC/blob/main/Part%205/Exercise%202.4.py)
 
  
