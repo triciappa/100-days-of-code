@@ -1,4 +1,4 @@
-# Resources on MY the #100DaysOfCode
+# Resources of MY #100DaysOfCode
 
 1. [Python Programing course](https://programming-22.mooc.fi/) MOOC with two courses: one basic (part 1-7) and one advanced (part 8-14) to learn Python. It comes with exercises that you first completed in the browser and then, after the firts few modules, you have to do them in VSCode and send them to test. Really good course.
 
