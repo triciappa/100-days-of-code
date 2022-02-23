@@ -26,7 +26,7 @@
 
 **Today's Progress**: Did a couple exercises about matrices but have problems with one about a reverse matrix
 
-**Thoughts:** I need to do some more exercise about recorring matrices. I 
+**Thoughts:** I need to do some more exercise about recorring matrices. 
 
 
  
