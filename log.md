@@ -38,6 +38,19 @@
 
 **Link to work:** [Python dictionaries](https://programming-22.mooc.fi/part-5/3-dictionary)
 
+### Day 4: February 23, 2022
 
 
+**Today's Progress**: Continued doing some dictionaries exercise and learn about remmoving keys and theis values. Struggled a little bit with printing a list of a dictionary especific key.
+
+**Thoughts:** When doing some major exercises i struggle to eficiently resolved them. I´m trying to stop, identify each minimun problem to solve and doing reusable function. I need to keep working on that. I guess that with time and after doing some big projects i would master it ;) . 
+
+**Link to work:** 
+
+- [Python dictionaries](https://programming-22.mooc.fi/part-5/3-dictionary)
+
+- [Python print a list in a dictionary](https://stackoverflow.com/questions/23047999/how-to-print-first-value-in-a-list-inside-a-dictionary)
+ 
+ 
+ 
  
