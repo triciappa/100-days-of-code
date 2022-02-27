@@ -3,6 +3,8 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
+NOTE: This days may not be consecutive due to working full time and doing a masters at the same time. But i commit myself to code as much as i can in the time that i have left.
+
 #### Start Date
 Frebruary 20th, 2022.
 
