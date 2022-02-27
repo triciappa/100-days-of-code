@@ -52,5 +52,17 @@
 - [Python print a list in a dictionary](https://stackoverflow.com/questions/23047999/how-to-print-first-value-in-a-list-inside-a-dictionary)
  
  
+ ### Day 5: February 26, 2022
+
+
+**Today's Progress**: Continued learning about python dictionaries and doing some specific ecercises about it.
+
+**Thoughts:** Even though i skipped 2 days, i'm still logging and doing this challenge because i am working full time and doing a masters also, so.....not that much time left. But i'm eager and ready to commit myself in doing this challenge in the time that i have left.
+
+**Link to work:** 
+
+- [Python dictionaries](https://programming-22.mooc.fi/part-5/3-dictionary)
+
+- [Numbers spelled out](https://github.com/triciappa/Python-Programming-MOOC/blob/main/Part%205/Exercise%203.7.py)
  
  
